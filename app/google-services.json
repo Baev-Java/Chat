@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1045793647192",
+    "project_id": "chat-1aa4c",
+    "storage_bucket": "chat-1aa4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045793647192:android:d59ebdd9066d4343acb82d",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045793647192-268q8ggo62hfk6phud44hkum0o1s4jhp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAApxAX11r1PKmY_FbQd0E6XeWFZ-jeH4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045793647192-268q8ggo62hfk6phud44hkum0o1s4jhp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045793647192:android:36b8e8bb3365377dacb82d",
+        "android_client_info": {
+          "package_name": "com.example.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045793647192-268q8ggo62hfk6phud44hkum0o1s4jhp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAApxAX11r1PKmY_FbQd0E6XeWFZ-jeH4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045793647192-268q8ggo62hfk6phud44hkum0o1s4jhp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
